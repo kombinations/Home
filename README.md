@@ -4,6 +4,6 @@
 - Html5
 
 Projects:
-Html-css-bootstrap
-js-jquery
-nodej-mogoDb
+Html-Css-Bootstrap
+Js-jQuery
+Nodej-MongoDb
